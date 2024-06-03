@@ -74,3 +74,4 @@ mkdir client/src
 mv index.html client/src/index.html
 clear
 find
+mv index.js client/src/index.js
