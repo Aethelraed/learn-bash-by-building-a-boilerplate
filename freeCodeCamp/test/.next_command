@@ -65,3 +65,4 @@ __vsc_prompt_cmd_original
 mv roboto.woff fonts/roboto.woff
 find
 mv lato.ttf fonts/lato.ttf
+mv menlo.otf fonts/menlo.otf
