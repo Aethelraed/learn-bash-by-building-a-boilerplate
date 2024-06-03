@@ -166,3 +166,4 @@ mv website/ website-boilerplate
 ls --color=auto website-boilerplate/
 clear
 cp --help
+cp -r website-boilerplate/ toms-website
