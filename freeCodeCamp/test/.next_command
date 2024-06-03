@@ -20,3 +20,4 @@ ls --color=auto --help
 clear
 ls --color=auto -a
 cd .
+touch background.jpg
