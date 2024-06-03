@@ -141,3 +141,4 @@ rm --help
 rm -r fonts/
 clear
 ls --color=auto
+touch package.json
