@@ -70,3 +70,4 @@ clear
 find
 mdir client
 mkdir client
+mkdir client/src
