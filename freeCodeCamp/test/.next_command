@@ -138,3 +138,4 @@ clear
 rmdir -h
 rmdir --help
 rm --help
+rm -r fonts/
