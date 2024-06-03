@@ -24,3 +24,5 @@ touch background.jpg
 touch header.png
 touch footer.jpeg
 ls --color=auto
+__vsc_prompt_cmd_original
+touch roboto.font
