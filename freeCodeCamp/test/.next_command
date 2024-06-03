@@ -88,3 +88,4 @@ find
 cd client/
 md assets
 mkdir assets
+cd assets/
