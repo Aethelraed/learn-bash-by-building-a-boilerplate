@@ -103,3 +103,4 @@ clear
 ls --color=auto
 find -n images
 find -name images
+mv header.png client/assets/images/
