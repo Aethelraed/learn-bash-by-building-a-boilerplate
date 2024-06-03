@@ -161,3 +161,4 @@ more README.md
 find
 pwd
 cd ..
+ls --color=auto
