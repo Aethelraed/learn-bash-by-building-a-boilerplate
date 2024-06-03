@@ -139,3 +139,5 @@ rmdir -h
 rmdir --help
 rm --help
 rm -r fonts/
+clear
+ls --color=auto
