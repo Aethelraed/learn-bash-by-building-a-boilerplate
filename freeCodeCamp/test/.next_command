@@ -172,3 +172,4 @@ find toms-website/
 ls --color=auto
 fin website-boilerplate/
 find website-boilerplate/
+clear
