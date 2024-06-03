@@ -75,3 +75,4 @@ mv index.html client/src/index.html
 clear
 find
 mv index.js client/src/index.js
+mv styles.css client/src/styles.css
