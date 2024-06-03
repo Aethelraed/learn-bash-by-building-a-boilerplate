@@ -79,3 +79,4 @@ mv styles.css client/src/styles.css
 clear
 find
 find client/
+find --help
