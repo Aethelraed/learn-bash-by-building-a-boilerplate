@@ -99,3 +99,7 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+clear
+ls --color=auto
+find -n images
+find -name images
