@@ -80,3 +80,5 @@ clear
 find
 find client/
 find --help
+clear
+find -name index.html
