@@ -68,3 +68,5 @@ mv lato.ttf fonts/lato.ttf
 mv menlo.otf fonts/menlo.otf
 clear
 find
+mdir client
+mkdir client
